@@ -7,7 +7,7 @@
 </div>
 
 <div> 
-  ![Snake animation](https://github.com/cemg-dev/cemg-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cemg-dev/cemg-dev/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 ## Linguagens 💬
