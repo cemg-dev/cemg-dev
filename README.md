@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemg-dev&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div>
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cemg-dev/cemg-dev/blob/output/github-contribution-grid-snake.svg)
 </div>
 ## Linguagens 💬
 <div style="display: inline_block"><br>
