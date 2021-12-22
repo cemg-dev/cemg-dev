@@ -30,7 +30,6 @@
 
 ## Estudando 🤔
   
-  - Data Mining
-  - Machine Learning
+  - DS/ML
   - Desenvolvimento Web
   - Engenharia de Software
