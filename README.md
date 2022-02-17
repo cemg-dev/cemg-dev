@@ -1,10 +1,11 @@
 # Olá, Sou Carlos Eduardo de Moura Gomes 👋
 
-## Estudando 🤔
+## Skills
+  - Ja tive contato com diversas linguagens de programacao
   
-  - DS/ML
-  - Desenvolvimento Web
-  - Engenharia de Software
+## Newsletters
+  
+  - Estudando Desenvolvimento Web: estou revisando do zero a triade: html, css e javascript. So entao comecarei a estudar react, node, etc.
 
 ## Status
 <div align="center">
