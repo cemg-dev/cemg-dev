@@ -5,7 +5,8 @@
   
 ## Newsletters
   
-  - Estudando Desenvolvimento Web: estou revisando do zero a triade: html, css e javascript. So entao comecarei a estudar react, node, etc.
+  - Buscando tornar meus conhecimentos mais solidos atraves de projetos pessoais
+  - Estudando Desenvolvimento Web: estou revisando do zero a triade: html, css e javascript. So entao comecarei a estudar react, node, etc
 
 ## Status
 <div align="center">
