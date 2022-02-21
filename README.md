@@ -1,7 +1,7 @@
 # Olá, Sou Carlos Eduardo de Moura Gomes 👋
 
 ## Skills
-  - Ja tive contato com diversas linguagens de programacao
+  - Ja tive contato com diversas linguagens de programacao e paradigmas de programacao
   
 ## Newsletters
   
