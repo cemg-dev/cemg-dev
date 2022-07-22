@@ -4,7 +4,7 @@
   - Ja tive contato com diversas linguagens e paradigmas de programação
   
 ## 📰 Newsletters
-  - Estudando desenvolvimento web com foco no back end
+  - Estudando desenvolvimento web com foco no front end
 
 ## 📈 Status
 <div align="center">
